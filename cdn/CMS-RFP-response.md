@@ -61,7 +61,7 @@ phase along with planned deliverables.
 
 ### Phase 1: Design + Plan (Weesk 1-3)
 
-####Technical Design Documentation
+#### Technical Design Documentation
 
 - System architecture diagrams
 - Smart contract specifications
