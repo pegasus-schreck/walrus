@@ -1,4 +1,4 @@
-# Walrus CDN RFP response
+# Walrus CMS RFP response
 
 ## Overview
 
@@ -30,6 +30,10 @@ The diagram below highlights the planned architecture for the solution and calls
 - Permission workflows and approval mechanisms
 - Metadata indexing and content references
 
+The planned architecture for the smart contract architecture is highlighted in the diagram below:
+
+[<img src="https://github.com/pegasus-schreck/walrus/blob/main/cdn/Smart%20Contract%20Architecture.png">](https://github.com/pegasus-schreck/walrus/blob/main/cdn/Smart%20Contract%20Architecture.png)
+
 ### Storage Layer (Walrus)
 
 - Blob storage for page content (Markdown/HTML)
@@ -44,5 +48,10 @@ The diagram below highlights the planned architecture for the solution and calls
 - Media upload and management tools
 - Public-facing content rendering
 - Template engine integration
+
+The components will provide the following data flow for the CMS as shown in this diagram:
+
+[<img src="https://github.com/pegasus-schreck/walrus/blob/main/cdn/Data%20Flow%20Architecture.png">](https://github.com/pegasus-schreck/walrus/blob/main/cdn/Data%20Flow%20Architecture.png)
+
 
 
