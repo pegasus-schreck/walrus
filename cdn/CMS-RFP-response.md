@@ -89,19 +89,19 @@ phase along with planned deliverables.
 
 #### Smart Contracts (Sui Move)
 
-##### Access control module 
-- Admin management functions
-- Author permission system
-- Role assignment and revocation
+- Access control module 
+  - Admin management functions
+  - Author permission system
+  - Role assignment and revocation
 
-##### Content management module 
-- Page creation and updates
-- Version tracking
-- Metadata management
+- Content management module 
+  - Page creation and updates
+  - Version tracking
+  - Metadata management
 
-##### Workflow module 
-- Update approval mechanisms
-- Content review processes
+- Workflow module 
+  - Update approval mechanisms
+  - Content review processes
 
 #### TypeScript SDK
 
