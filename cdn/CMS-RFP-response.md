@@ -89,19 +89,19 @@ phase along with planned deliverables.
 
 #### Smart Contracts (Sui Move)
 
-Access control module 
+##### Access control module 
 - Admin management functions
 - Author permission system
 - Role assignment and revocation
 
-Content management module 
+##### Content management module 
 - Page creation and updates
 - Version tracking
 - Metadata management
 
-Workflow module 
+##### Workflow module 
 - Update approval mechanisms
--- Content review processes
+- Content review processes
 
 #### TypeScript SDK
 
@@ -114,9 +114,9 @@ Workflow module
 
 #### Comprehensive Testing
 
-Unit tests for all smart contract functions
-Integration tests for SDK
-End-to-end testing scenarios
-Security audits and penetration testing
-Performance and load testing
-User acceptance testing (UAT)
+- Unit tests for all smart contract functions
+- Integration tests for SDK
+- End-to-end testing scenarios
+- Security audits and penetration testing
+- Performance and load testing
+- User acceptance testing (UAT)
