@@ -53,6 +53,20 @@ The components will provide the following data flow for the CMS as shown in this
 
 [<img src="https://github.com/pegasus-schreck/walrus/blob/main/cdn/Data%20Flow%20Architecture.png">](https://github.com/pegasus-schreck/walrus/blob/main/cdn/Data%20Flow%20Architecture.png)
 
+## Deliverables
 
+The schedule provided below is broken down in segments with a mapping of key deliverables to each Phase.  Over a 16 week period
+a series of 3 phases have been established to help create a series of milestones mapped to deliverables.  Below is a breakdown of each
+phase along with planned deliverables.
+
+### Phase 1: Design + Plan (Weesk 1-3)
+
+####Technical Design Documentation
+
+- System architecture diagrams
+- Smart contract specifications
+- Data flow and state management
+- Security model and threat analysis
+Scalability considerations
 
 
