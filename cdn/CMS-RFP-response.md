@@ -163,13 +163,29 @@ phase along with planned deliverables.
 - Case studies and use cases
 - Community resources
 
-### Marketing Strategy
+## Marketing Strategy
 
-TBD
+
 
 ## Key Feature Implementations
 
-TBD
+1. Role-Based Access Control
+Smart contracts enforce three-tier permissions with on-chain verification for every action.
+
+2. Content Authoring Experience
+Integrated Markdown editor with real-time preview, media management, and template selection.
+
+3. Rich Media Support
+Direct upload to Walrus with automatic optimization, CDN-like delivery, and version management.
+
+4. Client-Side Rendering
+Zero-latency updates with progressive enhancement, template engine integration, and SEO-friendly output.
+
+5. Walrus Sites Integration
+Complete UX hosted on Walrus Sites with automatic updates and no centralized components.
+
+6. Template Engine Integration
+Support for established frameworks (e.g., Handlebars, EJS) enabling brand-consistent site rendering.
 
 ## Timeline & Milestones
 
